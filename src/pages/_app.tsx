@@ -10,7 +10,7 @@ export default function App({ Component, pageProps }: AppProps) {
     <Header>
       <h1>Shop</h1>
     </Header>
-
+    
     < Component {...pageProps} />
   </Container>
 

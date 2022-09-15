@@ -91,3 +91,7 @@ export const getStaticProps: GetStaticProps<any, {id: string}> = async ({params}
     revalidate: 60 * 60 * 1 // 1hours
   }
 }
+
+
+
+{params: { id: 'prod_MQXA24jEol0iB5'}}
